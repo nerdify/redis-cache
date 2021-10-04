@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/nerdify/redis-cache#readme",
   "dependencies": {
-    "redis": "2.7.1"
+    "redis": "3.1.2"
   },
   "devDependencies": {
-    "xo": "^0.18.2"
+    "xo": "^0.45.0"
   }
 }
